@@ -26,9 +26,9 @@ How do I make:
 - and display images in a markdown document?
 ---
 
-## IV. Other
-![Smurf](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848)
-joy
+## IV. Favorite Game
+![Favorite Game](Screenshot2025-09-22205317.jpg)
+
 
  ```
  const Pi = 3.1415;
