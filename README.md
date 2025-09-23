@@ -1,8 +1,8 @@
 # Firdavs Muqimtoshov
 
 ## IGM-110
-- ((https://www.rit.edu/))
-- [RIT]((https://www.rit.edu/))
+- https://www.rit.edu/
+- [RIT](https://www.rit.edu/)
 
 ## II. **Uses**
 - Documentation for software projects on GitHub
