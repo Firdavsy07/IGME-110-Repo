@@ -1,8 +1,9 @@
-# About Markdown
+# Firdavs Muqimtoshov
 
-## I. History
+## IGM-110
 - https://en.wikipedia.org/wiki/Markdown
 - [Wikipedia - Markown](https://en.wikipedia.org/wiki/Markdown)
+- [RIT]([https://www.example.com](https://www.rit.edu/))
 
 ## II. **Uses**
 - Documentation for software projects on GitHub
