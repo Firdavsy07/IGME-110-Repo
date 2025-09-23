@@ -1,9 +1,8 @@
 # Firdavs Muqimtoshov
 
 ## IGM-110
-- https://en.wikipedia.org/wiki/Markdown
-- [Wikipedia - Markown](https://en.wikipedia.org/wiki/Markdown)
-- [RIT]([https://www.example.com](https://www.rit.edu/))
+- ((https://www.rit.edu/))
+- [RIT]((https://www.rit.edu/))
 
 ## II. **Uses**
 - Documentation for software projects on GitHub
